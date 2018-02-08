@@ -16,10 +16,12 @@
     },
     "require": {
         "php": "^7.1.0",
+        "ext-redis": "*",
         "osflab/exception": "~3.0.0",
         "osflab/container": "~3.0.0",
         "osflab/cache": "~3.0.0",
-        "osflab/crypt": "~3.0.0"
+        "osflab/crypt": "~3.0.0",
+        "osflab/log": "~3.0.0"
     },
     "minimum-stability": "dev",
     "autoload": {
