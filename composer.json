@@ -1,0 +1,35 @@
+{
+    "name": "osflab/safety",
+    "description": "OSF safety component",
+    "type": "library",
+    "homepage": "https://github.com/osflab/safety",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Guillaume Ponçon",
+            "email": "guillaume.poncon@openstates.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/osflab/safety/issues",
+        "source": "https://github.com/osflab/safety"
+    },
+    "require": {
+        "php": "^7.1.0",
+        "osflab/exception": "~3.0.0",
+        "osflab/container": "~3.0.0",
+        "osflab/cache": "~3.0.0",
+        "osflab/crypt": "~3.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Osf\\Safety\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    }
+}
