@@ -23,7 +23,7 @@
         "osflab/crypt": "~3.0.0",
         "osflab/log": "~3.0.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Osf\\Safety\\": ""
