@@ -28,10 +28,5 @@
         "psr-4": {
             "Osf\\Safety\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
     }
 }
