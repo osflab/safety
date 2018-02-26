@@ -1,6 +1,7 @@
 {
     "name": "osflab/safety",
     "description": "OSF safety component",
+    "version": "3.0.0",
     "type": "library",
     "homepage": "https://github.com/osflab/safety",
     "license": "AGPL-3.0-or-later",
