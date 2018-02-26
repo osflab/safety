@@ -1,7 +1,7 @@
 {
     "name": "osflab/safety",
     "description": "OSF safety component",
-    "version": "3.0.0",
+    "version": "3.0.1-dev",
     "type": "library",
     "homepage": "https://github.com/osflab/safety",
     "license": "AGPL-3.0-or-later",
@@ -18,11 +18,11 @@
     "require": {
         "php": "^7.1.0",
         "ext-redis": "*",
-        "osflab/exception": "~3.0.0",
-        "osflab/container": "~3.0.0",
-        "osflab/cache": "~3.0.0",
-        "osflab/crypt": "~3.0.0",
-        "osflab/log": "~3.0.0"
+        "osflab/exception": "~3.0.1",
+        "osflab/container": "~3.0.1",
+        "osflab/cache": "~3.0.1",
+        "osflab/crypt": "~3.0.1",
+        "osflab/log": "~3.0.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
