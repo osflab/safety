@@ -16,13 +16,13 @@
         "source": "https://github.com/osflab/safety"
     },
     "require": {
-        "php": "^7.1.0",
+        "php": "^7.1.3",
         "ext-redis": "*",
-        "osflab/exception": "~3.0.1",
-        "osflab/container": "~3.0.1",
-        "osflab/cache": "~3.0.1",
-        "osflab/crypt": "~3.0.1",
-        "osflab/log": "~3.0.1"
+        "osflab/exception": "~3.0.2",
+        "osflab/container": "~3.0.2",
+        "osflab/cache": "~3.0.2",
+        "osflab/crypt": "~3.0.2",
+        "osflab/log": "~3.0.2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
